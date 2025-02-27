@@ -22,4 +22,4 @@ export const Reviews = list({
             defaultValue: { kind: 'now' },
         }),
     },
-});
+}); 
